@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 📹 Wanna see something amazing ❓ Join here: https://youtube.com/TechieDheeraj
+- 🌱 I’m currently learning !(!(DS && Algo && AI))
+- 👯 I’m looking to collaborate on OpenSource Project
+- 💬 Ask me about Devops, Networking, Reverse Engineering 
+- 📫 How to reach me: https://instagram.com/dheeraj_kakkar 
+- ⚡ Fun fact: If you think you are so smart then maybe it's time to actually start thinking ❗️
+
 <!--
 **TechieDheeraj/TechieDheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
