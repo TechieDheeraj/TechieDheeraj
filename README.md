@@ -1,6 +1,6 @@
 # Hi there, I'm Dheeraj.
 
-<a href="https://www.linkedin.com/in/dheeraj/">
+<a href="https://www.linkedin.com/in/dheerajkakkar/">
   <img align="left" alt="Dheeraj Kakkar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="mailto:dheeraj.kakkar6@gmail.com">
@@ -40,7 +40,6 @@ Cheers,<br />
 Dheeraj<br />
 [Portfolio](https://r00tdk.in)
 
-![](https://komarev.com/ghpvc/?username=TechieDheeraj)
 <!--
 **TechieDheeraj/TechieDheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
