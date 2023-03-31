@@ -22,7 +22,7 @@ I'm software engineer. I graduated from MDU University Rohtak in July, 2016. I a
 - Reverse Engineering - C, CPP
 
 **Competitive Programming Profile:**
-- LeetCode - [TechieDheeraj](https://www.leetcode.com/TechieDheeraj2)
+- LeetCode - [TechieDheeraj2](https://www.leetcode.com/TechieDheeraj2)
 - Codechef - [TechieDheeraj](https://www.codechef.com/users/TechieDheeraj)
 - HackerRank - [TechieDheeraj](https://www.hackerrank.com/r00tdk)
 <!--
