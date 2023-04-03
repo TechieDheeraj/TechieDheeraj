@@ -16,10 +16,10 @@
 I'm software engineer. I graduated from MDU University Rohtak in July, 2016. I am interested in algorithmic competitions and learning about new technologies. In my spare time, I love to take part in competitive programming contests held on various online judges like Topcoder, Codeforces, Codechef etc.
 
 **Languages and Tools:**
-- Android Development - Java
 - Competitive Programming - CPP, Python, Go
-- Web Development - Javascript, NodeJS
-- Reverse Engineering - C, CPP
+- Web Development - Javascript, HTML, DJANGO
+- Reverse Engineering - C, CPP, BINWALK, IDA-PRO, GHIDRA
+- Android Development - Java
 
 **Competitive Programming Profile:**
 - LeetCode - [TechieDheeraj2](https://www.leetcode.com/TechieDheeraj2)
